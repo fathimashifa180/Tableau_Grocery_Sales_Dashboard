@@ -4,6 +4,10 @@
 This project presents an interactive Tableau dashboard designed to analyze revenue, stock performance, and product trends. The dashboard helps identify high-performing products, monitor stock levels, and understand business performance to support data-driven decision-making.
 
 Note: The dataset used for this dashboard was obtained from Kaggle.
+## Dashboard Preview
+![Home Page](home.png)
+![Revenue Dashboard](1.png)
+![Stock Analysis](2.png)
 
 ## Objectives
 - Analyze total revenue, stock, and product performance
