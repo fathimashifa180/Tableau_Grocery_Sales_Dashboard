@@ -40,6 +40,12 @@ Note: The dataset used for this dashboard was obtained from Kaggle.
 - Last order date and order trend monitoring
 - Relationship between units sold and stock quantity
 
+## Insights Gained
+- Identified top-performing products contributing most to revenue
+- Understood sales trends across different product categories
+- Analyzed product performance and revenue contribution
+- Observed stock and sales relationship for business insights
+
 ## Tools Used
 - Tableau Public / Tableau Desktop
 - Microsoft Excel / CSV Dataset
@@ -49,20 +55,14 @@ Note: The dataset used for this dashboard was obtained from Kaggle.
 - Kaggle (Public Dataset)
 - Contains product, sales, revenue, supplier, and stock information
 
-## Insights Gained
-- Identified top-performing products contributing most to revenue
-- Understood sales trends across different product categories
-- Analyzed product performance and revenue contribution
-- Observed stock and sales relationship for business insights
-
 ## Files Included
-- Tableau Dashboard File (.twbx)
+- Tableau Dashboard File (.twb)
 - Dataset file (.csv / .xlsx)
 - Dashboard screenshots
 - README.md
 
 ## How to Use
-1. Download the Tableau workbook file (.twbx)
+1. Download the Tableau workbook file (.twb)
 2. Open using Tableau Public or Tableau Desktop
 3. Interact with filters and visualizations to explore insights
 
